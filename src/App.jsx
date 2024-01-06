@@ -20,7 +20,6 @@ function App() {
       <p>TEST BRANCH</p>
       <p>TEST BRANCH</p>
       <p>TEST BRANCH</p>
-      <p>TEST BRANCH</p>
     </>
   )
 }
